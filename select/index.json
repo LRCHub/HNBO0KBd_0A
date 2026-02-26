@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "ジャンヌダルク",
+  "base_artist": "水曜日のカンパネラ",
+  "createdAt": "2026-02-26T15:56:09.500049Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Jeanne d'Arc [ジャンヌダルク]",
+      "artist": "Wednesday Campanella",
+      "has_synced": true,
+      "path": "select/01_Jeanne_d'Arc_[ジャンヌダルク]_Wednesday_Campanella.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ジャンヌダルク",
+      "artist": "Suiyoubi no Campanella",
+      "has_synced": true,
+      "path": "select/02_ジャンヌダルク_Suiyoubi_no_Campanella.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Jeanne d'Arc ジャンヌダルク",
+      "artist": "Wednesday Campanella",
+      "has_synced": true,
+      "path": "select/03_Jeanne_d'Arc_ジャンヌダルク_Wednesday_Campanella.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ジャンヌダルク",
+      "artist": "水曜日のカンパネラ",
+      "has_synced": false,
+      "path": "select/pl_01_ジャンヌダルク_水曜日のカンパネラ.txt"
+    }
+  ]
+}
